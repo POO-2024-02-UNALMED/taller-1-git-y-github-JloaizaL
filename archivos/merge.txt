@@ -1,0 +1,1 @@
+Al agregar un documento a la carpeto se pudo hacer el commit y el push, ya que la carpeta ahora no estaba vacia.
